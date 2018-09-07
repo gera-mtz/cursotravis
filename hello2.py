@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-suma === 4 + 6
+suma = 4 + 6
 
 def resultado(suma)
 	if(suma == 10)

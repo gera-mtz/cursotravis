@@ -4,7 +4,7 @@ python:
 	-2.7
 
 install:
-	-php install -r requirements.txt
+	-py install -r requirements.txt
 
 script:
 	-python hello.py

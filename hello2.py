@@ -2,7 +2,7 @@
 
 suma = 4 + 6
 
-def resultado(suma:)
+def resultado(suma):
 	if(suma == 10):
 		print('la suma es %') % str(suma)
 	else:

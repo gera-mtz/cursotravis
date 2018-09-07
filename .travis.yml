@@ -8,6 +8,7 @@ install:
 
 script:
     - python hello2.py
+    - pytest hello.py
 
 after-success:
     - travis-after-tesis-success

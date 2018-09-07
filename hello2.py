@@ -8,3 +8,6 @@ def resultado(suma):
 	else:
 		print('la suma no es igual a %') %str(suma)
 	return suma
+
+def test_suma():
+	assert resultado(10) != 10
